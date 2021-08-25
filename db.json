@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "title": "ZAVTRAKATAT",
+      "image": "https://zavtrakatat.com/wp-content/uploads/2021/07/DSC04139.jpg",
+      "price": "29.99$",
+      "type": "SKATE",
+      "description": "Доска «Aqua» 31.5х8.25  Перфорированная шкурка  Добавить в список желаний Бренд: Завтра катать Sku N/A Категория: Деки для скейта",
+      "id": 1
+    },
+    {
+      "title": "FLIP",
+      "image": "https://www.the-house.com/portal/wp-content/uploads/2018/02/flip-skateboards-e1518473125156.jpg",
+      "price": "39.99$",
+      "type": "skate",
+      "description": "Доска «Flip» 31х8   Перфорированная шкурка   Бренд: Flip Sku N/A Категория: Деки для скейта",
+      "id": 2
+    },
+    {
+      "title": "GIRL",
+      "image": "https://www.skateboardershq.com/wp-content/uploads/2021/04/Skateboard-for-Girls.jpg",
+      "price": "30.23$",
+      "type": "skate",
+      "description": "Доска «Girl» 31.5х8.25  Перфорированная шкурка Бренд: Завтра катать Sku N/A Категория: Деки для скейта",
+      "id": 3
+    },
+    {
+      "title": "SANTA CRUZ",
+      "image": "https://www.skatedeluxe.com/blog/wp-content/uploads/2020/07/santa-cruz-vx-skateboard-deck-review-test-detail.jpg",
+      "price": "25.99$",
+      "type": "skate",
+      "description": "Доска «Santa cruz» 31.5х8.25  Перфорированная шкурка  Добавить в список желаний Бренд: Завтра катать Sku N/A Категория: Деки для скейта",
+      "id": 4
+    },
+    {
+      "title": "FOOTWORK",
+      "image": "https://dominant.by/upload/iblock/10e/10ed53fa9f78ed2a8b633d26c5d11e57.jpg",
+      "price": "90$",
+      "type": "skate",
+      "description": "Доска «Footwork» 31.5х8.25  Перфорированная шкурка  Добавить в список желаний Бренд: Завтра катать Sku N/A Категория: Деки для скейта",
+      "id": 5
+    },
+    {
+      "title": "BAKER",
+      "image": "https://skateparkoftampa.com/spot/productimages/colors/5_84654.jpg",
+      "price": "33.99$",
+      "type": "skate",
+      "description": "Доска «Baker» 31.5х8.25  Перфорированная шкурка  Добавить в список желаний Бренд: Завтра катать Sku N/A Категория: Деки для скейта",
+      "id": 6
+    },
+    {
+      "title": "SPIT FIRE",
+      "image": "https://content2.rozetka.com.ua/goods/images/big/141592007.jpg",
+      "price": "99.99$",
+      "type": "skate",
+      "description": "Доска «Spit Fire» 31.5х8.25 Перфорированная шкурка Добавить в список желаний Бренд: Завтра катать Sku N/A Категория: Деки для скейта",
+      "id": 7
+    },
+    {
+      "title": "ELEMENT",
+      "image": "https://www.playskateshop.com/2123-large_default/element-skateboard-seal-black-skate-deck-8-inches.jpg",
+      "price": "33.21$",
+      "type": "skate",
+      "description": "Доска «Element» 31.5х8.25 Перфорированная шкурка Добавить в список желаний Бренд: Завтра катать Sku N/A Категория: Деки для скейта",
+      "id": 8
+    },
+    {
+      "title": "ЮНИОН",
+      "image": "https://pp.userapi.com/c845121/v845121680/29f80/jyYZplo1N7g.jpg",
+      "price": "23.22$",
+      "type": "skate",
+      "description": "Доска «Юнион» 31.5х8.25 Перфорированная шкурка Добавить в список желаний Бренд: Завтра катать Sku N/A Категория: Деки для скейта",
+      "id": 9
+    },
+    {
+      "title": "PLAN B",
+      "image": "https://www.nativeskatestore.co.uk/images/plan-b-skateboards-neon-sign-complete-skateboard-8-0-x-31-85-p48520-120058_image.jpg",
+      "price": "33.33$",
+      "type": "skate",
+      "description": "Доска «Plan B» 31.5х8.25 Перфорированная шкурка Добавить в список желаний Бренд: Завтра катать Sku N/A Категория: Деки для скейта",
+      "id": 10
+    },
+    {
+      "title": "ALMOST",
+      "image": "https://www.nativeskatestore.co.uk/images/almost-skateboards-daewon-tom-and-jerry-skateboard-deck-8-25-p30437-75148_image.jpg",
+      "price": "23$",
+      "type": "skate",
+      "description": "Доска «Almost» 31.5х8.25 Перфорированная шкурка Добавить в список желаний Бренд: Завтра катать Sku N/A Категория: Деки для скейта",
+      "id": 11
+    },
+    {
+      "title": "ZERO",
+      "image": "https://www.nativeskatestore.co.uk/images/zero-blood-green-skateboard-deck-7-875-p9916-19966_medium.jpg",
+      "price": "33$",
+      "type": "skate",
+      "description": "Доска «Zero» 31.5х8.25 Перфорированная шкурка Добавить в список желаний Бренд: Завтра катать Sku N/A Категория: Деки для скейта",
+      "id": 12
+    }
+  ]
+}
